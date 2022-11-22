@@ -1,1 +1,1 @@
-My first readme
+ALX course on Git & GitHub 
